@@ -1,7 +1,6 @@
 ---
 title: tech
 date: 2018-11-14T19:02:50.000-07:00
-draft: true
 
 ---
 # [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
